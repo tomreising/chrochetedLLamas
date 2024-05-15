@@ -5,3 +5,5 @@ A simple llama3 implementation of a voice controlled chatbot in python.
 
 NOTE: This project was developed on a Windows system. Ollama must be installed on the system.
 Ollama for Windows can be downloaded here: https://ollama.com/download/windows
+
+Python dependencies include: gTTY, pyAudio, pygame, ollama and SpeechRecognition
